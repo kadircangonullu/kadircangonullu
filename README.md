@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/kadircangonullu](github.com/kadircangonullu)
 
-- 📫 How to reach me **linkedin.com/in/kadircngnllu**
+- 📫 How to reach me **gonullukadircan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
