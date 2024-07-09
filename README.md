@@ -27,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kadircangonullu&show_icons=true&locale=en" alt="kadircangonullu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kadircangonullu&" alt="kadircangonullu" /></p>
+
+![snake gif](https://github.com/kadircangonullu/kadircangonullu/blob/output/github-contribution-grid-snake.gif)
