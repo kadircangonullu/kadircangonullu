@@ -72,16 +72,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kadircangonullu&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kadircangonullu&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
